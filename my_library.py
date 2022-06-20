@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import tweepy as tw
 from textblob import TextBlob
-from googletrans import Translator
 from unidecode import unidecode
 import seaborn as sns
 from nltk.corpus import stopwords
