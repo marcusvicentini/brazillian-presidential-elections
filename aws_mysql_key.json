@@ -1,0 +1,6 @@
+{
+	"user": "string",
+	"password": "string",
+	"endpoint": "string",
+	"databasename": "string"
+}
