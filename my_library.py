@@ -1,6 +1,5 @@
 import json
 import pandas as pd
-import tweepy as tw
 from textblob import TextBlob
 from unidecode import unidecode
 import seaborn as sns
