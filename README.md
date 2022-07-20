@@ -15,6 +15,8 @@ No ano de 2022 temos 2 candidatos bem polêmicos para a presidência da repúbli
 O principal objetivo desse projeto é fazer uma avaliação dos comentários do público para os 2 candidatos em suas páginas no twitter, classificando-as em positivas ou negativas para cada candidato. 
 
  
+ 
+ 
 
 2 - SOLUÇÃO PROPOSTA 
 
@@ -42,6 +44,8 @@ No nosso caso retirei as avaliações neutras pois há muitas notícias publicad
 
 Categorizando as classes de avaliação de sentimentos temos 2 distintas: positivo e negativo. Agora basta plotar essas 2 classes em gráficos utilizando o Seaborn para visualizar os resultados. 
 
+ 
+ 
  
 
 3 - RESULTADOS 
